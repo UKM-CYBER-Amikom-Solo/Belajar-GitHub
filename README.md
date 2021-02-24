@@ -12,4 +12,4 @@ Umum
   - Contoh Belajar-GitHub/Buat Folder/README.md
 
 The Power of README.md / Dokumentasi Project mu di GitHub
-- https://guides.github.com/
+- https://guides.github.com/features/wikis/
