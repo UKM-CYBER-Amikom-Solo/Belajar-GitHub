@@ -4,6 +4,7 @@ Umum
 - https://guides.github.com/
 
 - Menata Markdown (teks dokumen) di GitHub
+  - Coba belajar di sini https://www.markdowntutorial.com/
   - Pasti langsung paham setelah nyoba edit README.md disini :D
   - Jika kurang paham silakan tanya di grup atau buka laman https://guides.github.com/features/mastering-markdown/
   
