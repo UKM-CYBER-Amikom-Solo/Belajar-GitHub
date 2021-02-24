@@ -28,3 +28,15 @@ The Power of README.md and Make Your Wiki / Dokumentasi Project mu di GitHub
   - Gunanya sebagai pengingat kita atau memberi pesan kepada editor lain apa yang harus dilakukan
   - Project dibagi jadi 2, Project didalam Repository, Project Organisasi, dan Project Pribadi / Project Bebas (tidak terikat manapun)
   - Penginput, Pembaca dan Editor Project dapat disetting admin
+
+- Apa itu Packages
+  - Masih kurang paham kegunaan spesifiknya
+
+- Kalo fungsi Teams
+  - Disini kita dapat membuat kelompok kecil atau kelompok spesifik
+  - Seperti grup WA gitu
+  - Anggota dapat membuat tim sendiri, tergantung regulasi Admin
+
+# Organisasi
+- Bagaimana cara masuk organisasi di GitHub?
+  - Silakan buka People, cari adminnya, buka profilnya, bisa DM lewat IG
