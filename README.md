@@ -45,3 +45,4 @@ The Power of README.md and Make Your Wiki / Dokumentasi Project mu di GitHub
 # Organisasi
 - Bagaimana cara masuk organisasi di GitHub?
   - Silakan buka People, cari adminnya, buka profilnya, bisa DM lewat IG
+    - https://www.instagram.com/cyber.amikom/
