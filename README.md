@@ -10,7 +10,7 @@ Umum
 
 - Menata Markdown (teks dokumen) di GitHub
   - Coba belajar di sini (Italics and Bold, Headers, Links, Images, Blockquotes, Lists, Paragraphs)
-  - https://www.markdowntutorial.com/
+    - https://www.markdowntutorial.com/
   - Jika kurang paham silakan tanya di grup atau buka laman https://guides.github.com/features/mastering-markdown/
   
 - Membuat Folder
