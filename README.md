@@ -1,4 +1,9 @@
-# Belajar-GitHub
+# Fungsi GitHub
+- Gudang project atau kuliahmu
+- Wadah Kolaborasi
+- Sharing ilmu secara spesifik di Pemrograman didukung Fasilitasnya yang Lengkap dan Spesifik
+
+# Belajar GitHub
 
 Umum
 - https://guides.github.com/
