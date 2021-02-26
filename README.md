@@ -31,16 +31,38 @@ The Power of README.md and Make Your Wiki / Dokumentasi Project mu di GitHub
 - Apa fungsi Projects
   - Cara kerjanya seperti catatan kecil yang biasa kita pasang di tembok
   - Gunanya sebagai pengingat kita atau memberi pesan kepada editor lain apa yang harus dilakukan
-  - Project dibagi jadi 2, Project didalam Repository, Project Organisasi, dan Project Pribadi / Project Bebas (tidak terikat manapun)
+  - Project dibagi jadi 3, Project didalam Repository, Project Organisasi, dan Project Pribadi / Project Bebas (tidak terikat manapun)
   - Penginput, Pembaca dan Editor Project dapat disetting admin
 
 - Apa itu Packages
-  - Masih kurang paham kegunaan spesifiknya
+  - (Masih kurang paham kegunaan spesifiknya)
 
 - Kalo fungsi Teams
   - Disini kita dapat membuat kelompok kecil atau kelompok spesifik
   - Seperti grup WA gitu
   - Anggota dapat membuat tim sendiri, tergantung regulasi Admin
+ 
+# Di dalam Repository
+  - Issues
+    - Bisa untuk tanya-jawab, bisa untuk tanya2 di organisasi orang lain, tergantung kebijakan admin
+  - Pull requests
+    - (Blum paham, tolong dibantu ngisi bagi yg sudah paham)
+  - Discussions
+    - Tempat diskusi seperti forum, bisa untuk diskusi di organisasi orang lain, tergantung kebijakan admin
+    - Kita tidak bisa diskusi di repository yang diprivate, karena kita kaum gratisan, hehe
+  - Actions
+    - (Blum paham, tolong dibantu ngisi bagi yg sudah paham)
+  - Projects
+    - Bisa jadi pengganti ERD dalam bentuk teks
+  - Wiki
+    - Nah, ini seru, kita bisa kolaborasi buat wiki, coba aja
+    - Kita tidak bisa buat wiki jika repository-nya di private admin (jika non-organisasi tidak bisa lihat juga)
+  - Security
+    - (sementara belum paham)
+  - Insight
+    - Seperti history (kurang paham)
+  - Setting
+    - gaperlu dikasih tau
 
 # Organisasi
 - Bagaimana cara masuk Organisasi di GitHub?
