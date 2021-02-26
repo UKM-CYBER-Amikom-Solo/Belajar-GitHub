@@ -11,7 +11,7 @@
 ### [Umum](https://guides.github.com/)
 - Menata Markdown (teks dokumen) di GitHub
   - [Coba belajar di sini (Italics and Bold, Headers, Links, Images, Blockquotes, Lists, Paragraphs)](https://www.markdowntutorial.com/)
-  - Jika kurang paham silakan tanya di grup atau buka [laman ini](https://guides.github.com/features/mastering-markdown/) atau [ini](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+  - Jika kurang paham silakan tanya di grup atau buka [laman ini](https://guides.github.com/features/mastering-markdown/) atau [ini](https://github.com/adam-p/markdown-here/wiki)
 - Membuat Folder
   - Input nama folder, seperti input nama file biasa di text box atas, bedanya akhiri dengan "/", nanti otomatis
   - Contoh Belajar-GitHub/Buat Folder/README.md (*.md singkatan dari markdown*)
