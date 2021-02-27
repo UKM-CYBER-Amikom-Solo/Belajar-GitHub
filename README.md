@@ -1,7 +1,7 @@
 # Belajar GitHub
 
 ## Fungsi GitHub
-- yang paling sering bisa jadi [host untuk belajar web](https://pages.github.com/)
+- yang paling sering bisa jadi [host gratis untuk belajar web](https://pages.github.com/)
 - Gudang project atau kuliahmu
 - Wadah Kolaborasi
 - Sharing ilmu secara spesifik di Pemrograman didukung Fasilitasnya yang Lengkap dan Spesifik
